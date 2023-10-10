@@ -1,3 +1,5 @@
+![](https://i.ibb.co/NSrmCqN/Screenshot-2.png)
+
 # Relógio Digital - TonDevPy
 Este é um simples projeto de relógio digital criado por TonDevPy. Ele exibe a hora atual em formato de 24 horas, com atualizações em tempo real.
 
